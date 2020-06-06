@@ -11,6 +11,7 @@ Geographic Information System (GIS) is a ground-breaking technology that provide
 
 ### Web Mapping
 A web map is an interactive online map that displays geographic information and content organized as layers. The goal is to tell stories or answer questions through visualizing geographic spatial data. For example, this web map I created shows all the airports in the United States. This map can answer questions such as where all the airports are located at and which states have the highest total number of airports.
+![airport map](img/airport.JPG)
 
 In general, a map contains a reference basemap, a set of data layers (often include interactive pop-up windows with information about the data), map extent, and navigation tools to pan and zoom. Since a web map is hosted online, the content can be shared across different applications, users, and devices.
 
