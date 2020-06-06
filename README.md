@@ -1,6 +1,9 @@
 # Web Mapping & Smart Dashboard—The Impact of COVID-19 on U.S. Manufacturing Industry
 **Author:** Angel Lin
 <br>**Date:** 2020/06/05
+
+![web map](img/map.JPG)
+
 ## Background Information
 
 ### Abstract
