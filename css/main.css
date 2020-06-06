@@ -1,0 +1,173 @@
+html, body {
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  background: #fff;
+}
+
+.legend {
+  line-height: 16px;
+  width: 140px;
+  color: #333333;
+  font-family: 'Titillium Web', sans-serif;
+  padding: 6px 8px;
+  background: white;
+  background: rgba(255,255,255,0.5);
+  box-shadow: 0 0 15px rgba(0,0,0,0.2);
+  border-radius: 5px;
+}
+
+.legend i {
+  width: 16px;
+  height: 16px;
+  float: left;
+  margin-right: 8px;
+  opacity: 0.9;
+}
+
+.legend img {
+  width: 16px;
+  height: 16px;
+  margin-right: 3px;
+  float: left;
+}
+
+.legend p {
+  font-size: 12px;
+  line-height: 16px;
+  margin: 0;
+}
+
+#map {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  margin: 0;
+  background: #fff;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+#mobiledeck {
+  display: none;
+  visibility: hidden;
+}
+
+#info {
+  position: absolute;
+  width: 500px;
+  top: 1%;
+  bottom: 1%;
+  left: .5%;
+  z-index: 1000;
+  background: #343a40;
+  color: white;
+  opacity: 1;
+  padding: 40px 15px 900px 15px;
+}
+
+#info a {
+  color: lightgray;
+}
+
+#info a:hover {
+  color: white;
+  opacity: 0.3;
+}
+
+.card-deck .card {
+  background: #343a40;
+  padding: 2px;
+  margin-right: 0px;
+  margin-left: 0px;
+}
+
+.card-body {
+  padding: 0;
+  margin: 0;
+  text-align: center;
+  flex: none;
+}
+
+.card-title {
+  color: lightgray;
+  font-size: 14px;
+  margin-bottom: 0rem;
+  font-weight: bold;
+}
+
+.card-text {
+  font-size: 40px;
+  text-align: center;
+}
+
+#info h4 i {
+  font-size: 1.25e;
+  padding-right: 10px
+}
+
+#title {
+  font-size: 25px;
+  font-family: 'Oswald', sans-serif;
+}
+
+#title span {
+  font-size: 14px;
+  float: right;
+  margin-right: 10px;
+}
+
+
+.placename {
+  font-size: 40px;
+  position: relative;
+  font-family: 'Oswald', sans-serif;
+}
+
+#county-chart {
+  top: 50px;
+
+}
+
+text {
+  fill: gray
+}
+
+.tick line {
+  stroke: gray;
+}
+
+.c3-axis path {
+  stroke: gray;
+}
+
+.name {
+  background-color: black;
+  color: black
+}
+
+.value {
+  background-color: black;
+  color: black
+}
+
+#footer {
+  position: absolute;
+  bottom: 40px;
+  margin-right: 10px;
+  font-size: 13px;
+  color: lightgray;
+  line-height: 150%;
+}
+
+.state-count {
+  color: #dc3545;
+}
+
+.county-count {
+  color: orange;
+}
+
