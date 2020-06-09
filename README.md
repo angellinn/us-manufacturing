@@ -1,8 +1,8 @@
-# Web Mapping & Smart Dashboard—The Impact of COVID-19 on U.S. Manufacturing Industry
-**Author:** Angel Lin
-<br>**Date:** 2020/06/05
+# COVID19 U.S. Manufacturing Company Dashboard
+**Author:** Angel Lin  **Date:** 2020/06/05
+<br>This is a web map with a smart dashboard that showcases the impact of COVID19 on the manufacturing industry in each state.
 
-![web map](img/map.JPG)
+![web map](img/map1.JPG)
 (under development)
 
 ## Background Information
@@ -15,6 +15,7 @@ Geographic Information System (GIS) is a ground-breaking technology that provide
 
 ### Web Mapping
 A web map is an interactive online map that displays geographic information and content organized as layers. The goal is to tell stories or answer questions through visualizing geographic spatial data. For example, this web map I created shows all the airports in the United States. This map can answer questions such as where all the airports are located at and which states have the highest total number of airports.
+
 ![airport map](img/airport.JPG)
 
 In general, a map contains a reference basemap, a set of data layers (often include interactive pop-up windows with information about the data), map extent, and navigation tools to pan and zoom. Since a web map is hosted online, the content can be shared across different applications, users, and devices.
@@ -27,32 +28,36 @@ Both web mapping and smart dashboard are crucial analytics techniques that will 
 ## Project Introduction
 
 ### Motivation
-Due to COVID-19, many manufacturing plants are forced to shut down globally. In the United States, manufacturing industry accounts for 11.39% of the total output in the economy, employing 8.51% of the workforce (Source: National Association of Manufacturers). I want to create a web map that provides critical insights about how the manufacturing companies are impacted in each state.
+COVID19 has caused the biggest factory closing since World War II. In the United States, manufacturing industry accounts for 11.39% of the total output in the economy, employing more than 12 million U.S. workers. Due to the COVID19 outbreak, the supply chain industry is now experiencing the biggest disruption of all time. To help supply chain leaders get an insight of how the manufacturing industry is impacted, I created a map that incorporates both COVID19 and manufacturing data of each state. The map is a risk assessment for supply chain leaders to evaluate their procurement plan and strategy.
+
+### Development strategy
+![prototype](img/prototype.jpg)
+
+Before diving into the coding part, I sketched out a prototype of the map and dasboard, which provides me a clear guildeline of how I would structure the coding part. After that, I started gathering data to support the visualization part of the map.
 
 ### Systematic Architecture
 External Internet
 -	Basemap
 -	Interactive Component
+
 Internal Network
 -	Web host (webserver)
 -	Geospatial Server
 -	File Server
 
-### Code Analysis
-Library used
--	Leaflet
+### Major Library Used
+1.	[Leaflet](https://leafletjs.com/)
+2.	[jQuery](https://jquery.com/)
+3.	[D3](https://d3js.org/)
+4.	[CanvasJS](https://canvasjs.com/)
 
 ### Data Sources
-- COVID-19 Data:https://www.worldometers.info/coronavirus/country/us/
-- Center of each State: https://www.thoughtco.com/geographic-centers-of-the-united-states-1435168
+1. [COVID19 Case](https://www.worldometers.info/coronavirus/country/us/)
+2. [Manufacturing Company in Each State](https://data.census.gov/cedsci/table?n=31-33&tid=ECNBASIC2012.EC1231A2&text=EC1231A&hidePreview=true&vintage=2012)
+3.[Manufacturing Company in Each State by Category](https://data.census.gov/cedsci/table?q=ec1231&hidePreview=true&table=EC1231A1&tid=ECNBASIC2012.EC1231A1&g=0100000US,.04000.001)
+4. [State Center lat/lng](https://www.thoughtco.com/geographic-centers-of-the-united-states-1435168)
 
 ### References
-- COVID-19 & Supply Chain:
-  - https://www.asug.com/insights/how-covid-19-is-affecting-every-aspect-of-supply-chains
-- Web Mapping:
-  - https://www.esri.com/arcgis-blog/products/product/uncategorized/web-mapping-101/
-  - https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm
-- US Manufacturing Facts:
-  - https://www.nam.org/state-manufacturing-data/2019-united-states-manufacturing-facts/
-  - http://www.themanufacturinginstitute.org/Research/Facts-About-Manufacturing/Economy-and-Jobs/Company-Size/Company-Size.aspx
-  -
+1. [COVID19 & Supply Chain](https://www.asug.com/insights/how-covid-19-is-affecting-every-aspect-of-supply-chains)
+2. [Web Mapping](https://www.esri.com/arcgis-blog/products/product/uncategorized/web-mapping-101/)
+3. [US Manufacturing Facts](https://www.nam.org/state-manufacturing-data/2019-united-states-manufacturing-facts/)
