@@ -113,11 +113,11 @@
     }
     
     // 6. Declare variables
-    var rchart, cellTowersLayer, countiesLayer = null, counties = {};
+    var rchart, cellTowersLayer, countiesLayer = null, companies = {}, establishments = {};
 
     // 7. load all datasets through d3 and store them in an array
     Promise.all([
-      d3.json("assets/state-center-company.geojson"),
+      d3.json("assets/center.geojson"),
       d3.json("assets/us-states.geojson")
     ]).then(function(datasets) {
      
@@ -239,10 +239,11 @@
       // 10. Add a scale bar to map
       L.control.scale({position: 'bottomright'}).addTo(mymap);
       
-      /*
-      function displayPlace(name) {
-        $(".placename").text(name);
-        $(".county-count").text(counties[name]);
+      
+      function displayPlace(Name) {
+        $(".placename").text(Name);
+        $(".county-count").text(companies[Name]);
+        $(".state-count").text(establishments[Name]);
       }
 
 
@@ -255,33 +256,17 @@
       }
 
 
-      datasets[1].features.forEach(function(d) {
-        counties[d.properties.name] = d.properties.count;
+      datasets[0].features.forEach(function(d) {
+        companies[d.properties.Name] = d.properties.comp_count;
       })
+
+      datasets[0].features.forEach(function(s) {
+        establishments[s.properties.Name] = s.properties.est_count;
+      })
+
 
       /*
-
-      function displayPlace(name) {
-        $(".placename").text(name + " COUNTY");
-        $(".county-count").text(counties[name]);
-        $(".state-count").text();
-      }
-
-
-      mymap.on('click', onMapClick);
-
-      function onMapClick(e) {
-        $(".placename").text("UNITED STATES");
-        $(".county-count").text("274,181");
-        $(".state-count").text("317,778");
-      }
-
-
-      datasets[1].features.forEach(function(d) {
-        counties[d.properties.NAME] = d.properties.CT_CNT;
-      })
-
-
+      
       // this function take a dictionary, return a dictionary that sorted by the number of cell towers.
       function sortJsObject(obj) {
         items = Object.keys(obj).map(function(key) {
