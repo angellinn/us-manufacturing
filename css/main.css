@@ -12,7 +12,7 @@ html, body {
   font-family: 'Titillium Web', sans-serif;
   padding: 6px 8px;
   background: white;
-  background: rgba(255,255,255,0.5);
+  background: rgba(255,255,255,0.7);
   box-shadow: 0 0 15px rgba(0,0,0,0.2);
   border-radius: 5px;
 }
@@ -129,7 +129,6 @@ html, body {
 
 #county-chart {
   top: 50px;
-
 }
 
 text {
@@ -164,10 +163,10 @@ text {
 }
 
 .state-count {
-  color: #dc3545;
+  color: #F08080;
 }
 
 .county-count {
-  color: orange;
+  color: #F08080;
 }
 

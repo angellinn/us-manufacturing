@@ -43,9 +43,16 @@ Library used
 -	Leaflet
 
 ### Data Sources
+- COVID-19 Data:https://www.worldometers.info/coronavirus/country/us/
+- Center of each State: https://www.thoughtco.com/geographic-centers-of-the-united-states-1435168
 
 ### References
-- https://www.asug.com/insights/how-covid-19-is-affecting-every-aspect-of-supply-chains
-- https://www.esri.com/arcgis-blog/products/product/uncategorized/web-mapping-101/
-- https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm
--
+- COVID-19 & Supply Chain:
+  - https://www.asug.com/insights/how-covid-19-is-affecting-every-aspect-of-supply-chains
+- Web Mapping:
+  - https://www.esri.com/arcgis-blog/products/product/uncategorized/web-mapping-101/
+  - https://doc.arcgis.com/en/arcgis-online/reference/what-is-web-map.htm
+- US Manufacturing Facts:
+  - https://www.nam.org/state-manufacturing-data/2019-united-states-manufacturing-facts/
+  - http://www.themanufacturinginstitute.org/Research/Facts-About-Manufacturing/Economy-and-Jobs/Company-Size/Company-Size.aspx
+  -
