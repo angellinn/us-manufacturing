@@ -3,7 +3,6 @@
 <br>This is a web map with a smart dashboard that showcases the impact of COVID19 on the manufacturing industry in each state.
 
 ![web map](img/map1.JPG)
-(under development)
 
 ## Background Information
 
@@ -50,11 +49,12 @@ Internal Network
 2.	[jQuery](https://jquery.com/)
 3.	[D3](https://d3js.org/)
 4.	[CanvasJS](https://canvasjs.com/)
+5.	[Font Awesome](https://fontawesome.com/)
 
 ### Data Sources
 1. [COVID19 Case](https://www.worldometers.info/coronavirus/country/us/)
 2. [Manufacturing Company in Each State](https://data.census.gov/cedsci/table?n=31-33&tid=ECNBASIC2012.EC1231A2&text=EC1231A&hidePreview=true&vintage=2012)
-3.[Manufacturing Company in Each State by Category](https://data.census.gov/cedsci/table?q=ec1231&hidePreview=true&table=EC1231A1&tid=ECNBASIC2012.EC1231A1&g=0100000US,.04000.001)
+3. [Manufacturing Company in Each State by Category](https://data.census.gov/cedsci/table?q=ec1231&hidePreview=true&table=EC1231A1&tid=ECNBASIC2012.EC1231A1&g=0100000US,.04000.001)
 4. [State Center lat/lng](https://www.thoughtco.com/geographic-centers-of-the-united-states-1435168)
 
 ### References
