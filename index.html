@@ -242,8 +242,8 @@
       
       function displayPlace(Name) {
         $(".placename").text(Name);
-        $(".county-count").text(companies[Name]);
-        $(".state-count").text(establishments[Name]);
+        $(".county-count").text(companies[Name]); //county = company
+        $(".state-count").text(establishments[Name]); //state = factory
       }
 
       datasets[0].features.forEach(function(d) {
