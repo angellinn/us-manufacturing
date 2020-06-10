@@ -189,7 +189,9 @@
       function clickFeature(e) {
         L.DomEvent.stopPropagation(e);
         // $("#hint").text("Click here to the global trend.");
-        displayPlace(e.target.feature.properties.name)
+        displayPlace(e.target.feature.properties.name);
+        console.log(e.target.feature.properties.name);
+        genPieChart();
       }
 
       // 3.2.3 reset the hightlighted feature when the mouse is out of its region.
@@ -246,82 +248,85 @@
         $(".state-count").text(establishments[Name]); //state = factory
       }
 
+
       datasets[0].features.forEach(function(d) {
         companies[d.properties.Name] = d.properties.comp_count;
-      })
+        //genPieChart();
+      });
 
       datasets[0].features.forEach(function(s) {
         establishments[s.properties.Name] = s.properties.est_count;
-      })
-
-      mymap.on('click', onMapClick);
+        //genPieChart();
+      });
 
       function onMapClick(e) {
         $(".placename").text("UNITED STATES");
         $(".county-count").text("274,181");
         $(".state-count").text("317,778");
+        genBarChart();
+      }
+      mymap.on('click', onMapClick);
+
+      // Create Pie Chart
+      function genPieChart(){
+        var pieChart = new CanvasJS.Chart("chartContainer", {
+          animationEnabled: true,
+          theme: "dark2",
+          title: {
+            text: "Desktop Search Engine Market Share - 2016"
+          },
+          data: [{
+            type: "pie",
+            startAngle: 240,
+            yValueFormatString: "##0.00\"%\"",
+            indexLabel: "{label} {y}",
+            dataPoints: [
+              {y: 79.45, label: "Google"},
+              {y: 7.31, label: "Bing"},
+              {y: 7.06, label: "Baidu"},
+              {y: 4.91, label: "Yahoo"},
+              {y: 1.26, label: "Others"}
+            ]
+          }]
+        });
+        console.log('gen pie function called');
+        pieChart.render();
       }
 
       // Create Bar Chart
-      window.onload = function () {
-
-      var rchart = new CanvasJS.Chart("chartContainer", {
-        animationEnabled: true,
-        theme: "dark2", // "light1", "light2", "dark1", "dark2"
-        //title:{
-        //  text: "Company in each Impact Level"
-        //},
-        axisY: {
-          title: "# Manufacturing Company"
-        },
-        axisX: {
-          title: "Impact Level (By # COVID19 Case)",
-        },
-        dataPointWidth: 30,
-        data: [{        
-          type: "column",
-          color: "#F08080",  
-          dataPoints: [      
-            { y: 78897, label: "Extreme (100,000+)" },
-            { y: 103741,  label: "Major (30,000+)" },
-            { y: 65550,  label: "Moderate (10,000+)" },
-            { y: 22072,  label: "Minor (1,000+)" },
-            { y: 3921,  label: "Limited (0+)" }
-          ]
-        }]
-      });
-      rchart.render();
-
+      function genBarChart(){
+        var rchart = new CanvasJS.Chart("chartContainer", {
+          animationEnabled: true,
+          theme: "dark2", // "light1", "light2", "dark1", "dark2"
+          //title:{
+          //  text: "Company in each Impact Level"
+          //},
+          axisY: {
+            title: "# Manufacturing Company"
+          },
+          axisX: {
+            title: "Impact Level (By # COVID19 Case)",
+          },
+          dataPointWidth: 30,
+          data: [{        
+            type: "column",
+            color: "#F08080",  
+            dataPoints: [      
+              { y: 78897, label: "Extreme (100,000+)" },
+              { y: 103741,  label: "Major (30,000+)" },
+              { y: 65550,  label: "Moderate (10,000+)" },
+              { y: 22072,  label: "Minor (1,000+)" },
+              { y: 3921,  label: "Limited (0+)" }
+            ]
+          }]
+        });
+        console.log('genBar function called');
+        rchart.render();
       }
 
-      /*
-      // Create Pie Chart
-      window.onload = function() {
-
-      var chart = new CanvasJS.Chart("chartContainer", {
-        animationEnabled: true,
-        title: {
-          text: "Desktop Search Engine Market Share - 2016"
-        },
-        data: [{
-          type: "pie",
-          startAngle: 240,
-          yValueFormatString: "##0.00\"%\"",
-          indexLabel: "{label} {y}",
-          dataPoints: [
-            {y: 79.45, label: "Google"},
-            {y: 7.31, label: "Bing"},
-            {y: 7.06, label: "Baidu"},
-            {y: 4.91, label: "Yahoo"},
-            {y: 1.26, label: "Others"}
-          ]
-        }]
-      });
-      chart.render();
-
+      window.onload = function(){
+        genBarChart();
       }
-
-      */
 
     });
   </script>
