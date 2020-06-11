@@ -33,7 +33,7 @@
       <p>
 
       <p>
-        <span class="mobile-title">Total Manufacturing Establishment: </span>
+        <span class="mobile-title">Total Manufacturing Factory: </span>
         <span class="state-count">317,778</span>
       <p>
 
@@ -59,7 +59,7 @@
         </div>
         <div class="card">
           <div class="card-body state">
-            <h5 class="card-title"> Total Manufacturing Establishment </h5>
+            <h5 class="card-title"> Total Manufacturing Factory </h5>
             <p class="card-text">
               <span class="state-count">317,778</span>
             </p>
@@ -113,7 +113,7 @@
     }
     
     // 6. Declare variables
-    var rchart, cellTowersLayer, countiesLayer = null, companies = {}, establishments = {};
+    var rchart, cellTowersLayer, countiesLayer = null, companies = {}, factories = {};
 
     // 7. load all datasets through d3 and store them in an array
     Promise.all([
@@ -249,7 +249,7 @@
       function displayPlace(Name) {
         $(".placename").text(Name);
         $(".county-count").text(companies[Name]); //county = company
-        $(".state-count").text(establishments[Name]); //state = factory
+        $(".state-count").text(factories[Name]); //state = factory
       }
 
 
@@ -259,7 +259,7 @@
       });
 
       datasets[0].features.forEach(function(s) {
-        establishments[s.properties.Name] = s.properties.est_count;
+        factories[s.properties.Name] = s.properties.est_count;
         //genPieChart();
       });
 
