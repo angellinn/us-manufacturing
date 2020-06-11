@@ -71,7 +71,7 @@
       <script src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
 
       <div style="margin-top: 25px">
-        This will be the footer
+        Attribution: COVID19 Data &copy; Worldmeters | Company Data &copy; Census | Base Map &copy; CartoDB | Made By Angel Lin
       </div>
 
 
@@ -288,22 +288,15 @@
           animationEnabled: true,
           theme: "dark2",
           title: {
-            text: "Desktop Search Engine Market Share - 2016"
+            //text: "Top Category",
           },
           data: [{
             type: "pie",
             startAngle: 240,
             yValueFormatString: "##0.00\"%\"",
             indexLabel: "{label} {y}",
-            dataPoints: datapoints
-            // dataPoints: [
-            //   {y: 79.45, label: "Google"},
-            //   {y: 7.31, label: "Bing"},
-            //   {y: 7.06, label: "Baidu"},
-            //   {y: 4.91, label: "Yahoo"},
-            //   {y: 1.06, label: "Others"}
-            //]
-
+            dataPoints: datapoints,
+            fillOpacity: .8,
           }]
         });
         console.log('gen pie function called');

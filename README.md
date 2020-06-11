@@ -2,7 +2,8 @@
 **Author:** Angel Lin  **Date:** 2020/06/05
 <br>This is a web map with a smart dashboard that showcases the impact of COVID19 on the manufacturing industry in each state.
 
-![web map](img/map1.JPG)
+![web map](img/map2.JPG)
+![web map](img/map3.JPG)
 
 ## Background Information
 
@@ -33,6 +34,19 @@ COVID19 has caused the biggest factory closing since World War II. In the United
 ![prototype](img/prototype.jpg)
 
 Before diving into the coding part, I sketched out a prototype of the map and dasboard, which provides me a clear guildeline of how I would structure the coding part. After that, I started gathering data to support the visualization part of the map.
+
+### Data Manipulation
+Some of the data sources do not have an ideal data format. Therefore, I used `SQL` to organize the data first before loading the data into my code. For example, the following code is how I transformed the data in [STATE_CATEGORIES](assets/STATE_CATEGORIES.xlsb.csv) into the format in [state-cate](assets/state-cate.xls):
+```SQL
+SELECT StateName, Category, SUM(Establishment) AS StateEst
+FROM STATE_CATEGORIES
+WHERE StateName <> 'United States' 
+	AND Category <> 'Unknown' 
+	AND Category <> 'Manufacturing'
+GROUP BY Category, StateName
+ORDER BY StateName, StateEst DESC
+GO
+```
 
 ### Systematic Architecture
 External Internet
