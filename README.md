@@ -1,5 +1,6 @@
 # COVID19 U.S. Manufacturing Company Dashboard
 **Author:** Angel Lin  **Date:** 2020/06/05
+<br>Link to web map: https://covid19-manufacturing.herokuapp.com/index.html
 <br>This is a web map with a smart dashboard that showcases the impact of COVID19 on the manufacturing industry in each state.
 
 ![web map](img/map2.JPG)
