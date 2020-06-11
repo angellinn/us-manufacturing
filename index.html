@@ -118,9 +118,10 @@
     // 7. load all datasets through d3 and store them in an array
     Promise.all([
       d3.json("assets/center.geojson"),
-      d3.json("assets/us-states.geojson")
+      d3.json("assets/us-states.geojson"),
+      d3.json("assets/top10cate.json"),
     ]).then(function(datasets) {
-     
+      console.log(datasets[2]);
       cellTowersLayer = L.geoJSON(datasets[0], {
         onEachFeature: function(feature, layer) {
           layer.bindPopup(feature.properties.Name);
@@ -190,8 +191,11 @@
         L.DomEvent.stopPropagation(e);
         // $("#hint").text("Click here to the global trend.");
         displayPlace(e.target.feature.properties.name);
-        console.log(e.target.feature.properties.name);
-        genPieChart();
+        
+        var name = e.target.feature.properties.name;
+        //console.log(name);
+        //console.log(datasets[2][name]);
+        genPieChart(datasets[2][name]);
       }
 
       // 3.2.3 reset the hightlighted feature when the mouse is out of its region.
@@ -268,7 +272,18 @@
       mymap.on('click', onMapClick);
 
       // Create Pie Chart
-      function genPieChart(){
+      function genPieChart(datapoints){
+        console.log(datapoints);
+        var total = 0;
+
+        datapoints.forEach(function(obj){
+          obj['y'] = parseInt(obj['y']);
+          total += obj['y'];
+        });
+        datapoints.forEach(function(obj){
+          obj['y'] = (obj['y'] / total)*100;
+        });
+
         var pieChart = new CanvasJS.Chart("chartContainer", {
           animationEnabled: true,
           theme: "dark2",
@@ -280,13 +295,15 @@
             startAngle: 240,
             yValueFormatString: "##0.00\"%\"",
             indexLabel: "{label} {y}",
-            dataPoints: [
-              {y: 79.45, label: "Google"},
-              {y: 7.31, label: "Bing"},
-              {y: 7.06, label: "Baidu"},
-              {y: 4.91, label: "Yahoo"},
-              {y: 1.26, label: "Others"}
-            ]
+            dataPoints: datapoints
+            // dataPoints: [
+            //   {y: 79.45, label: "Google"},
+            //   {y: 7.31, label: "Bing"},
+            //   {y: 7.06, label: "Baidu"},
+            //   {y: 4.91, label: "Yahoo"},
+            //   {y: 1.06, label: "Others"}
+            //]
+
           }]
         });
         console.log('gen pie function called');

@@ -1,0 +1,2644 @@
+﻿{
+    "Alabama": [
+        {
+            "label": "Fabricated metal product",
+            "y": "1004"
+        },
+        {
+            "label": "Printing and related support activities",
+            "y": "728"
+        },
+        {
+            "label": "Machine shops",
+            "y": "644"
+        },
+        {
+            "label": "Wood product",
+            "y": "472"
+        },
+        {
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "444"
+        },
+        {
+            "label": "Machine shops",
+            "y": "365"
+        },
+        {
+            "label": "Architectural and structural metals",
+            "y": "355"
+        },
+        {
+            "label": "Printing",
+            "y": "354"
+        },
+        {
+            "label": "Furniture and related product",
+            "y": "353"
+        },
+        {
+            "label": "Nonmetallic mineral product",
+            "y": "348"
+        }
+    ],
+    "Alaska": [
+        {
+            
+            "label": "Seafood product preparation and packaging",
+            "y": "660"
+        },
+        {
+            
+            "label": "Food",
+            "y": "268"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "80"
+        },
+        {
+            
+            "label": "Ship and boat building",
+            "y": "80"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "66"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "54"
+        },
+        {
+            
+            "label": "Transportation equipment",
+            "y": "50"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "50"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "48"
+        },
+        {
+            
+            "label": "Petroleum and coal products",
+            "y": "48"
+        }
+    ],
+    "Arizona": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "886"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "868"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "542"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "517"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "444"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "409"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "336"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "327"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "291"
+        },
+        {
+            
+            "label": "Computer and electronic product",
+            "y": "287"
+        }
+    ],
+    "Arkansas":[
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "563"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "472"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "442"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "362"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "314"
+        },
+        {
+            
+            "label": "Food",
+            "y": "307"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "286"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "273"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "257"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "247"
+        }
+    ],
+    "California": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "6760"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "6541"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "4814"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "4388"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "3476"
+        },
+        {
+            
+            "label": "Food",
+            "y": "3424"
+        },
+        {
+            
+            "label": "Cut and sew apparel contractors",
+            "y": "3266"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "3151"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "2996"
+        },
+        {
+            
+            "label": "Computer and electronic product",
+            "y": "2988"
+        }
+    ],
+    "Colorado": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1054"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "804"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "749"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "598"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "564"
+        },
+        {
+            
+            "label": "Food",
+            "y": "516"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "495"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "467"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "406"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "351"
+        }
+    ],
+    "Connecticut": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1161"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "736"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "678"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "525"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "438"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "400"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "350"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "350"
+        },
+        {
+            
+            "label": "Coating, engraving, heat treating",
+            "y": "322"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "298"
+        }
+    ],
+    "Delaware": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "112"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "90"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "64"
+        },
+        {
+            
+            "label": "Food",
+            "y": "61"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "55"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "48"
+        },
+        {
+            
+            "label": "Chemical",
+            "y": "47"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "44"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "43"
+        },
+        {
+            
+            "label": "Navigational and control instruments",
+            "y": "42"
+        }
+    ],
+    "District of Columbia": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "82"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "40"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "36"
+        },
+        {
+            
+            "label": "Food",
+            "y": "16"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "14"
+        },
+        {
+            
+            "label": "Bakeries and tortilla",
+            "y": "13"
+        },
+        {
+            
+            "label": "Bread and bakery product",
+            "y": "12"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "12"
+        },
+        {
+            
+            "label": "Retail bakeries",
+            "y": "10"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "10"
+        }
+    ],
+    "Florida": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "3204"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1780"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1774"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "1616"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1536"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "1239"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "996"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "990"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "966"
+        },
+        {
+            
+            "label": "Food",
+            "y": "949"
+        }
+    ],
+    "Georgia": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1634"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1215"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "880"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "780"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "764"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "700"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "646"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "626"
+        },
+        {
+            
+            "label": "Food",
+            "y": "599"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "562"
+        }
+    ],
+    "Hawaii": [
+        {
+            
+            "label": "Food",
+            "y": "240"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "196"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "119"
+        },
+        {
+            
+            "label": "Bakeries and tortilla",
+            "y": "109"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "97"
+        },
+        {
+            
+            "label": "Bread and bakery product",
+            "y": "92"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "87"
+        },
+        {
+            
+            "label": "Other food",
+            "y": "68"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "67"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "64"
+        }
+    ],
+    "Idaho": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "332"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "261"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "240"
+        },
+        {
+            
+            "label": "Food",
+            "y": "229"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "222"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "216"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "176"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "160"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "152"
+        },
+        {
+            
+            "label": "Other wood product",
+            "y": "149"
+        }
+    ],
+    "Illinois": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "3277"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "3016"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "2140"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "1616"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1452"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1390"
+        },
+        {
+            
+            "label": "Food",
+            "y": "1235"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1219"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "1176"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "1132"
+        }
+    ],
+    "Indiana": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1849"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1292"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1252"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "872"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "809"
+        },
+        {
+            
+            "label": "Transportation equipment",
+            "y": "684"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "672"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "668"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "589"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "570"
+        }
+    ],
+    "Iowa": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "832"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "750"
+        },
+        {
+            
+            "label": "Food",
+            "y": "704"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "626"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "597"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "528"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "472"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "471"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "382"
+        },
+        {
+            
+            "label": "Cement and concrete product",
+            "y": "368"
+        }
+    ],
+    "Kansas": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "680"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "677"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "496"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "421"
+        },
+        {
+            
+            "label": "Food",
+            "y": "359"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "322"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "295"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "252"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "241"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "233"
+        }
+    ],
+    "Kentucky": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "825"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "758"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "580"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "527"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "444"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "361"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "342"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "339"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "338"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "338"
+        }
+    ],
+    "Louisiana": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "769"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "646"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "572"
+        },
+        {
+            
+            "label": "Food",
+            "y": "360"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "357"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "293"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "274"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "260"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "258"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "249"
+        }
+    ],
+    "Maine": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "324"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "323"
+        },
+        {
+            
+            "label": "Ship and boat building",
+            "y": "282"
+        },
+        {
+            
+            "label": "Food",
+            "y": "270"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "256"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "250"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "225"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "204"
+        },
+        {
+            
+            "label": "Transportation equipment",
+            "y": "176"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "171"
+        }
+    ],
+    "Maryland": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "920"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "421"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "418"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "376"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "361"
+        },
+        {
+            
+            "label": "Food",
+            "y": "342"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "334"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "314"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "210"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "209"
+        }
+    ],
+    "Massachusetts": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1290"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1280"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "972"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "780"
+        },
+        {
+            
+            "label": "Computer and electronic product",
+            "y": "681"
+        },
+        {
+            
+            "label": "Navigational and control instruments",
+            "y": "638"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "613"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "602"
+        },
+        {
+            
+            "label": "Food",
+            "y": "591"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "588"
+        }
+    ],
+    "Michigan": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "3177"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "2420"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "2224"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "2168"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1874"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1524"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1029"
+        },
+        {
+            
+            "label": "Transportation equipment",
+            "y": "988"
+        },
+        {
+            
+            "label": "Coating, engraving, heat treating",
+            "y": "910"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "875"
+        }
+    ],
+    "Minnesota": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1657"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1552"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1312"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "891"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "837"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "793"
+        },
+        {
+            
+            "label": "Food",
+            "y": "791"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "706"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "656"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "610"
+        }
+    ],
+     "Mississippi": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "442"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "358"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "351"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "306"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "288"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "280"
+        },
+        {
+            
+            "label": "Food",
+            "y": "230"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "226"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "214"
+        },
+        {
+            
+            "label": "Household furniture",
+            "y": "200"
+        }
+    ],
+    "Missouri": [ 
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1400"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1187"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "768"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "687"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "648"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "646"
+        },
+        {
+            
+            "label": "Food",
+            "y": "622"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "585"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "558"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "515"
+        }
+    ],
+    "Montana": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "232"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "216"
+        },
+        {
+            
+            "label": "Food",
+            "y": "213"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "207"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "204"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "172"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "166"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "160"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "144"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "132"
+        }
+    ],
+    "Nebraska": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "426"
+        },
+        {
+            
+            "label": "Food",
+            "y": "375"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "342"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "322"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "256"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "232"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "206"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "190"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "187"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "168"
+        }
+    ],
+    "Nevada": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "346"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "290"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "242"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "170"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "165"
+        },
+        {
+            
+            "label": "Food",
+            "y": "162"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "157"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "138"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "134"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "132"
+        }
+    ],
+    "New Hampshire": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "407"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "344"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "318"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "213"
+        },
+        {
+            
+            "label": "Computer and electronic product",
+            "y": "208"
+        },
+        {
+            
+            "label": "Electronic component",
+            "y": "186"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "156"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "154"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "153"
+        },
+        {
+            
+            "label": "Navigational and control instruments",
+            "y": "138"
+        }
+    ],
+    "New Jersey": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1872"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1204"
+        },
+        {
+            
+            "label": "Food",
+            "y": "881"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "843"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "794"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "722"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "705"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "662"
+        },
+        {
+            
+            "label": "Chemical",
+            "y": "616"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "578"
+        }
+    ],
+    "New Mexico": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "278"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "237"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "206"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "180"
+        },
+        {
+            
+            "label": "Food",
+            "y": "151"
+        },
+        {
+            
+            "label": "Jewelry and silverware",
+            "y": "150"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "148"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "134"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "122"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "114"
+        }
+    ],
+    "New York": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "3570"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "2395"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "2303"
+        },
+        {
+            
+            "label": "Food",
+            "y": "2042"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1646"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "1553"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "1500"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "1422"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1398"
+        },
+        {
+            
+            "label": "Bakeries and tortilla",
+            "y": "1251"
+        }
+    ],
+    "North Carolina": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1760"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1399"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1028"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "841"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "824"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "809"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "710"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "659"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "653"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "634"
+        }
+    ],
+    "North Dakota": [
+        {
+            
+            "label": "Food",
+            "y": "178"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "155"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "132"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "112"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "106"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "102"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "92"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "90"
+        },
+        {
+            
+            "label": "Agriculture, construction, and mining",
+            "y": "84"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "83"
+        }
+    ],
+    "Ohio": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "3694"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "2678"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "2402"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1725"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "1713"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "1424"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1122"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1049"
+        },
+        {
+            
+            "label": "Plastics and rubber products",
+            "y": "978"
+        },
+        {
+            
+            "label": "Food",
+            "y": "968"
+        }
+    ],
+    "Oklahoma": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1083"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "764"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "616"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "442"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "433"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "324"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "309"
+        },
+        {
+            
+            "label": "Food",
+            "y": "303"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "303"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "296"
+        }
+    ],
+    "Oregon": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "898"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "802"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "606"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "606"
+        },
+        {
+            
+            "label": "Food",
+            "y": "551"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "474"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "442"
+        },
+        {
+            
+            "label": "Wineries",
+            "y": "378"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "375"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "369"
+        }
+    ],
+    "Pennsylvania": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "3059"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "2424"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "2130"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1296"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "1273"
+        },
+        {
+            
+            "label": "Food",
+            "y": "1206"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1164"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1146"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "1096"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "920"
+        }
+    ],
+    "Rhode Island": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "287"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "272"
+        },
+        {
+            
+            "label": "Jewelry and silverware",
+            "y": "266"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "246"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "214"
+        },
+        {
+            
+            "label": "Food",
+            "y": "144"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "142"
+        },
+        {
+            
+            "label": "Coating, engraving, heat treating",
+            "y": "120"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "117"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "116"
+        }
+    ],
+    "South Carolina": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "760"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "660"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "580"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "341"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "328"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "312"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "311"
+        },
+        {
+            
+            "label": "Chemical",
+            "y": "262"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "260"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "254"
+        }
+    ],
+    "South Dakota": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "198"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "193"
+        },
+        {
+            
+            "label": "Food",
+            "y": "170"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "152"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "142"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "140"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "114"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "114"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "105"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "104"
+        }
+    ],
+    "Tennessee": [
+        {
+           
+            "label": "Printing and related support activities",
+            "y": "1212"
+        },
+        {
+           
+            "label": "Fabricated metal product",
+            "y": "1170"
+        },
+        {
+           
+            "label": "Machine shops",
+            "y": "746"
+        },
+        {
+           
+            "label": "Wood product",
+            "y": "635"
+        },
+        {
+           
+            "label": "Printing",
+            "y": "567"
+        },
+        {
+           
+            "label": "Miscellaneous",
+            "y": "523"
+        },
+        {
+           
+            "label": "Machinery",
+            "y": "502"
+        },
+        {
+           
+            "label": "Sawmills and wood preservation",
+            "y": "462"
+        },
+        {
+           
+            "label": "Commercial printing",
+            "y": "452"
+        },
+        {
+           
+            "label": "Machine shops",
+            "y": "445"
+        }
+    ],
+    "Texas": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "4577"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "3762"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "3266"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "1964"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1902"
+        },
+        {
+            
+            "label": "Food",
+            "y": "1799"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "1786"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "1720"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "1470"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "1323"
+        }
+    ],
+    "Utah": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "593"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "516"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "447"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "422"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "396"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "318"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "300"
+        },
+        {
+            
+            "label": "Food",
+            "y": "282"
+        },
+        {
+            
+            "label": "Household furniture",
+            "y": "239"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "238"
+        },
+        {
+            
+            "label": "Food",
+            "y": "223"
+        }
+    ],
+    "Vermont": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "162"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "144"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "144"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "130"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "121"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "109"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "97"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "96"
+        },
+        {
+            
+            "label": "All other miscellaneous",
+            "y": "91"
+        }
+    ],
+    "Virginia": [
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1204"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "825"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "610"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "575"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "570"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "564"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "490"
+        },
+        {
+            
+            "label": "Commercial printing",
+            "y": "467"
+        },
+        {
+            
+            "label": "Furniture and related product",
+            "y": "461"
+        },
+        {
+            
+            "label": "Wood kitchen cabinet and countertop",
+            "y": "456"
+        }
+    ],
+    "Washington": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "1161"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1074"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "890"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "820"
+        },
+        {
+            
+            "label": "Food",
+            "y": "792"
+        },
+        {
+            
+            "label": "Medical equipment and supplies",
+            "y": "764"
+        },
+        {
+            
+            "label": "Other miscellaneous",
+            "y": "506"
+        },
+        {
+            
+            "label": "Wineries",
+            "y": "506"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "504"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "475"
+        }
+    ],
+    "West Virginia": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "288"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "266"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "251"
+        },
+        {
+            
+            "label": "Sawmills and wood preservation",
+            "y": "250"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "210"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "146"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "145"
+        },
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "132"
+        },
+        {
+            
+            "label": "Other wood product",
+            "y": "112"
+        },
+        {
+            
+            "label": "Sawmills",
+            "y": "111"
+        }
+    ],
+    "Wisconsin": [
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "2107"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "1656"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "1498"
+        },
+        {
+            
+            "label": "Machinery",
+            "y": "1173"
+        },
+        {
+            
+            "label": "Food",
+            "y": "1149"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "927"
+        },
+        {
+            
+            "label": "Wood product",
+            "y": "810"
+        },
+        {
+            
+            "label": "Printing",
+            "y": "781"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "738"
+        },
+        {
+            
+            "label": "Metalworking machinery",
+            "y": "704"
+        }
+    ],
+    "Wyoming": [
+        {
+            
+            "label": "Ready-mix concrete",
+            "y": "134"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "132"
+        },
+        {
+            
+            "label": "Fabricated metal product",
+            "y": "130"
+        },
+        {
+            
+            "label": "Printing and related support activities",
+            "y": "102"
+        },
+        {
+            
+            "label": "Nonmetallic mineral product",
+            "y": "95"
+        },
+        {
+            
+            "label": "Animal slaughtering and processing",
+            "y": "94"
+        },
+        {
+            
+            "label": "Cement and concrete product",
+            "y": "79"
+        },
+        {
+            
+            "label": "Food",
+            "y": "77"
+        },
+        {
+            
+            "label": "Miscellaneous",
+            "y": "69"
+        },
+        {
+            
+            "label": "Machine shops",
+            "y": "67"
+        }
+    ]
+}
